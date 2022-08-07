@@ -1,4 +1,4 @@
-## Hi!
+## Hello!
 -I'm currently learning HTML, CSS, JS, Java and Python.
 
 -In the future, I want to learn C, Lua and Rust as well.
